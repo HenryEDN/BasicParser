@@ -1,0 +1,605 @@
+		Top 100 anime
+
+From: https://yummyanime.club/top
+Date: 2021-01-09 22:45:20
+
+title: "Код Гиасс: Восстание Лелуша R2"
+position: #1
+views: 2156333
+votes: 24859
+rate: 9.58
+
+title: "Город, в котором меня нет"
+position: #2
+views: 4102202
+votes: 52891
+rate: 9.43
+
+title: "Обещанный Неверленд"
+position: #3
+views: 2322301
+votes: 34403
+rate: 9.39
+
+title: "Код Гиасс: Восстание Лелуша"
+position: #4
+views: 4024987
+votes: 30139
+rate: 9.41
+
+title: "Гуррен-Лаганн"
+position: #5
+views: 2250704
+votes: 24797
+rate: 9.44
+
+title: "Врата Штейна"
+position: #6
+views: 4051452
+votes: 28550
+rate: 9.41
+
+title: "Тетрадь Смерти"
+position: #7
+views: 5926458
+votes: 54913
+rate: 9.31
+
+title: "Вайолет Эвергарден"
+position: #8
+views: 3296554
+votes: 28594
+rate: 9.38
+
+title: "Хантер Х Хантер"
+position: #9
+views: 6229828
+votes: 17953
+rate: 9.49
+
+title: "Крутой учитель Онидзука"
+position: #10
+views: 2596929
+votes: 14986
+rate: 9.54
+
+title: "Ванпанчмен"
+position: #11
+views: 5114059
+votes: 53591
+rate: 9.28
+
+title: "Необъятный океан"
+position: #12
+views: 2812291
+votes: 27394
+rate: 9.37
+
+title: "Наруто: Ураганные хроники"
+position: #13
+views: 6734951
+votes: 28839
+rate: 9.35
+
+title: "Клинок, рассекающий демонов"
+position: #14
+views: 6164628
+votes: 44710
+rate: 9.28
+
+title: "Паразит - Учение о жизни"
+position: #15
+views: 3577492
+votes: 41192
+rate: 9.26
+
+title: "Стальной Алхимик"
+position: #16
+views: 6040354
+votes: 24799
+rate: 9.34
+
+title: "Берсерк ТВ-1"
+position: #17
+views: 2194321
+votes: 15233
+rate: 9.46
+
+title: "Доктор Стоун"
+position: #18
+views: 4981649
+votes: 31348
+rate: 9.28
+
+title: "Твоя апрельская ложь"
+position: #19
+views: 3211285
+votes: 25865
+rate: 9.31
+
+title: "Убийца Акамэ!"
+position: #20
+views: 5896076
+votes: 56320
+rate: 9.19
+
+title: "Нет игры - нет жизни"
+position: #21
+views: 5002253
+votes: 54577
+rate: 9.19
+
+title: "Стальной Алхимик: Братство"
+position: #22
+views: 3483886
+votes: 16110
+rate: 9.42
+
+title: "Шарлотта"
+position: #23
+views: 4068122
+votes: 43164
+rate: 9.20
+
+title: "Волейбол!! 3"
+position: #24
+views: 1190370
+votes: 14330
+rate: 9.43
+
+title: "Волейбол!!"
+position: #25
+views: 4025997
+votes: 20422
+rate: 9.32
+
+title: "Волейбол!! 2"
+position: #26
+views: 2037392
+votes: 15001
+rate: 9.41
+
+title: "Невероятное приключение ДжоДжо: Рыцари звёздной пыли 2"
+position: #27
+views: 1944948
+votes: 15745
+rate: 9.39
+
+title: "Атака Титанов"
+position: #28
+views: 6071403
+votes: 53972
+rate: 9.14
+
+title: "Атака Титанов 3"
+position: #29
+views: 4038017
+votes: 27408
+rate: 9.23
+
+title: "Класс убийц 2"
+position: #30
+views: 3217693
+votes: 25726
+rate: 9.24
+
+title: "Созданный в бездне"
+position: #31
+views: 1856230
+votes: 18386
+rate: 9.32
+
+title: "Сага о Винланде"
+position: #32
+views: 2854318
+votes: 19638
+rate: 9.30
+
+title: "Дороро"
+position: #33
+views: 4055577
+votes: 31969
+rate: 9.19
+
+title: "Наруто"
+position: #34
+views: 5857961
+votes: 28505
+rate: 9.19
+
+title: "Волчица и пряности"
+position: #35
+views: 1898527
+votes: 19715
+rate: 9.25
+
+title: "Этот глупый свин не понимает мечту девочки-зайки"
+position: #36
+views: 2907748
+votes: 33408
+rate: 9.14
+
+title: "Бездомный Бог: Арагото"
+position: #37
+views: 2801103
+votes: 41743
+rate: 9.10
+
+title: "Резонанс Ужаса"
+position: #38
+views: 2169397
+votes: 31229
+rate: 9.14
+
+title: "Владыка"
+position: #39
+views: 4505509
+votes: 39885
+rate: 9.10
+
+title: "Ковбой Бибоп ТВ"
+position: #40
+views: 2080137
+votes: 11113
+rate: 9.42
+
+title: "Семь смертных грехов"
+position: #41
+views: 5855324
+votes: 37033
+rate: 9.09
+
+title: "Кулинарные поединки Сомы"
+position: #42
+views: 2608114
+votes: 19804
+rate: 9.21
+
+title: "Невероятное приключение ДжоДжо"
+position: #43
+views: 4464864
+votes: 20990
+rate: 9.19
+
+title: "Президент - горничная!"
+position: #44
+views: 4141747
+votes: 29618
+rate: 9.11
+
+title: "Бездомный Бог"
+position: #45
+views: 4467711
+votes: 54289
+rate: 9.03
+
+title: "Невероятное приключение ДжоДжо: Рыцари звёздной пыли"
+position: #46
+views: 2158814
+votes: 16008
+rate: 9.25
+
+title: "Семь смертных грехов 2"
+position: #47
+views: 5001897
+votes: 26229
+rate: 9.12
+
+title: "91 день"
+position: #48
+views: 2190234
+votes: 23799
+rate: 9.13
+
+title: "Моб Психо 100"
+position: #49
+views: 1759245
+votes: 23244
+rate: 9.13
+
+title: "Врата Штейна 0"
+position: #50
+views: 1209589
+votes: 11864
+rate: 9.34
+
+title: "Пластиковые воспоминания"
+position: #51
+views: 2168707
+votes: 22719
+rate: 9.13
+
+title: "Восхождение героя щита"
+position: #52
+views: 5950167
+votes: 40290
+rate: 9.03
+
+title: "Парад смерти"
+position: #53
+views: 1931513
+votes: 27314
+rate: 9.09
+
+title: "Моб Психо 100 II"
+position: #54
+views: 1176037
+votes: 16338
+rate: 9.19
+
+title: "Скитальцы"
+position: #55
+views: 2243224
+votes: 17286
+rate: 9.17
+
+title: "Кошечка из Сакурасо"
+position: #56
+views: 4618502
+votes: 39477
+rate: 9.00
+
+title: "О моём перерождении в слизь"
+position: #57
+views: 4878240
+votes: 30021
+rate: 9.04
+
+title: "Невероятное приключение ДжоДжо: Золотой ветер"
+position: #58
+views: 2487163
+votes: 12425
+rate: 9.28
+
+title: "Кулинарные поединки Сомы: Второе блюдо"
+position: #59
+views: 1322693
+votes: 15059
+rate: 9.19
+
+title: "Очень приятно, Бог ТВ-1"
+position: #60
+views: 3062144
+votes: 22151
+rate: 9.08
+
+title: "Магистр дьявольского культа"
+position: #61
+views: 2594780
+votes: 10319
+rate: 9.34
+
+title: "Невероятное приключение ДжоДжо: Несокрушимый алмаз"
+position: #62
+views: 2201771
+votes: 13579
+rate: 9.22
+
+title: "Очень приятно, Бог ТВ-2"
+position: #63
+views: 1432947
+votes: 13913
+rate: 9.21
+
+title: "Король-шаман"
+position: #64
+views: 1812451
+votes: 14265
+rate: 9.20
+
+title: "ТораДора!"
+position: #65
+views: 3244451
+votes: 31977
+rate: 9.00
+
+title: "Хвост Феи ТВ-2"
+position: #66
+views: 4264610
+votes: 18804
+rate: 9.10
+
+title: "Добро пожаловать в класс превосходства"
+position: #67
+views: 2850628
+votes: 29281
+rate: 9.00
+
+title: "Баскетбол Куроко 3"
+position: #68
+views: 1352781
+votes: 11958
+rate: 9.25
+
+title: "Блич"
+position: #69
+views: 9904041
+votes: 19674
+rate: 9.08
+
+title: "Мастера Меча Онлайн"
+position: #70
+views: 7741676
+votes: 62223
+rate: 8.90
+
+title: "Военная хроника маленькой девочки"
+position: #71
+views: 2211709
+votes: 22821
+rate: 9.04
+
+title: "Врата: Там бьются наши воины ТВ-1"
+position: #72
+views: 3311703
+votes: 26631
+rate: 9.00
+
+title: "Ангельские ритмы!"
+position: #73
+views: 2402155
+votes: 29647
+rate: 8.98
+
+title: "Моя геройская академия 2"
+position: #74
+views: 4701799
+votes: 28184
+rate: 8.97
+
+title: "Владыка 3"
+position: #75
+views: 2429298
+votes: 24907
+rate: 8.99
+
+title: "Атака Титанов 2"
+position: #76
+views: 2982747
+votes: 36924
+rate: 8.92
+
+title: "Баскетбол Куроко 2"
+position: #77
+views: 1510708
+votes: 13400
+rate: 9.16
+
+title: "Кулинарные поединки Сомы: Третье блюдо — Часть I"
+position: #78
+views: 1162464
+votes: 12521
+rate: 9.18
+
+title: "Класс убийц"
+position: #79
+views: 4017327
+votes: 29932
+rate: 8.94
+
+title: "Хвост Феи ТВ-1"
+position: #80
+views: 12259055
+votes: 29816
+rate: 8.94
+
+title: "Как и ожидал, моя школьная романтическая жизнь не удалась [ТВ-2]"
+position: #81
+views: 1706245
+votes: 19500
+rate: 9.02
+
+title: "Врата: Там бьются наши воины ТВ-2"
+position: #82
+views: 1856940
+votes: 20853
+rate: 9.00
+
+title: "Великий из бродячих псов 2"
+position: #83
+views: 1539289
+votes: 17796
+rate: 9.04
+
+title: "Моя геройская академия 3"
+position: #84
+views: 5533399
+votes: 24510
+rate: 8.96
+
+title: "Несладкая жизнь псионика Сайки Кусуо"
+position: #85
+views: 2022021
+votes: 13030
+rate: 9.14
+
+title: "Самурай Чамплу"
+position: #86
+views: 1517089
+votes: 9394
+rate: 9.29
+
+title: "Баскетбол Куроко"
+position: #87
+views: 2979610
+votes: 19330
+rate: 9.01
+
+title: "Несладкая жизнь псионика Сайки Кусуо 2"
+position: #88
+views: 1367507
+votes: 9467
+rate: 9.28
+
+title: "Госпожа Кагуя: в любви как на войне 2"
+position: #89
+views: 1477955
+votes: 13705
+rate: 9.11
+
+title: "Волчица и пряности 2"
+position: #90
+views: 885892
+votes: 12848
+rate: 9.13
+
+title: "Богиня благословляет этот прекрасный мир 2"
+position: #91
+views: 3493754
+votes: 37344
+rate: 8.87
+
+title: "Кулинарные поединки Сомы: Третье блюдо — Часть II"
+position: #92
+views: 1183287
+votes: 10954
+rate: 9.17
+
+title: "Вельзевул"
+position: #93
+views: 2493329
+votes: 12290
+rate: 9.11
+
+title: "В подземелье я пойду, там красавицу найду"
+position: #94
+views: 4867349
+votes: 41357
+rate: 8.82
+
+title: "Сатана на подработке"
+position: #95
+views: 3735901
+votes: 40857
+rate: 8.82
+
+title: "Синий Экзорцист ТВ-1"
+position: #96
+views: 5157474
+votes: 35091
+rate: 8.84
+
+title: "Невеста чародея"
+position: #97
+views: 2685324
+votes: 16575
+rate: 9.00
+
+title: "Если ты будешь не занят, спасёшь меня от апокалипсиса?"
+position: #98
+views: 1686643
+votes: 18354
+rate: 8.97
+
+title: "Повторная жизнь"
+position: #99
+views: 1726068
+votes: 19678
+rate: 8.95
+
+title: "Как и ожидал, моя школьная романтическая жизнь не удалась [ТВ-1]"
+position: #100
+views: 3084247
+votes: 23132
+rate: 8.91
+
